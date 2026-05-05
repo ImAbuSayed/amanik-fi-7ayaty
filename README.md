@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عينيك سحر في ليلي يطول
+> بين النجوم طيفك دائما يجول
+> قلبي ينادي بصوت حنون
+> في عتمة الليل حبك هو الدليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
