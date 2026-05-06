@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amanik-fi-7ayaty/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Amanik Fi 7ayaty](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Amanik Fi 7ayaty](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
