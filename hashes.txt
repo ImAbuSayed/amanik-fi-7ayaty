@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanik Fi 7ayaty
+
+This log tracks the cryptographic history and versioning for the song **Amanik Fi 7ayaty** (amanik-fi-7ayaty).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:22:27.152618 | `v1` | `52a648731fa30bc07980c4d406acc3a4b037fed6992af7cc4595a3d850623412` | `2780e508ad29191c685f31fef57acd6b2e84a591c6e7e25c2324581510b792ba` | `2026-05-08_amanik-fi-7ayaty-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
